@@ -161,4 +161,4 @@ BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
 
 
 # Set meta data to use older recoverys 
-SKIP_SET_METADATA := true
+USE_SET_METADATA := false
